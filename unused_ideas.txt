@@ -1,0 +1,9 @@
+- determine if a quadratic has integer factors
+- it it possible that a monic quadratic polynomial  has 2 diff factorisation
+- append()
+- change elements of list via indexing
+
+- function sieve_of_erasthotenes
+- probably need find() or list slicing
+- function geometric mean
+- collatz conjecture / Hailstone sequence
